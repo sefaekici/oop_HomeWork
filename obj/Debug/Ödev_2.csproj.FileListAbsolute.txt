@@ -1,0 +1,7 @@
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\bin\Debug\Ödev_2.exe.config
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\bin\Debug\Ödev_2.exe
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\bin\Debug\Ödev_2.pdb
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\obj\Debug\Ödev_2.csprojAssemblyReference.cache
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\obj\Debug\Ödev_2.csproj.CoreCompileInputs.cache
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\obj\Debug\Ödev_2.exe
+C:\Users\sefa5\Desktop\C# Projeler\Ödev_2\Ödev_2\obj\Debug\Ödev_2.pdb
